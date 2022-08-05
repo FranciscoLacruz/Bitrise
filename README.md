@@ -8,7 +8,7 @@ This is a sample Android project that demonstrates a typical [Bitrise](https://b
 
 ### Bitrise Workflow
 
-#### `primary` Workflow
+#### `primary` Workflo
 
 <details>
 <summary>Workflow steps</summary>
