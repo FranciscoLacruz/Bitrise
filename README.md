@@ -8,7 +8,7 @@ This is a sample Android project that demonstrates a typical [Bitrise](https://b
 
 ### Bitrise Workflow
 
-#### `primary` Workflo
+#### `primary` Workflow
 
 <details>
 <summary>Workflow steps</summary>
@@ -18,7 +18,7 @@ This is a sample Android project that demonstrates a typical [Bitrise](https://b
 
 This workfloww is automatically run by Bitrise on every commit on every branch. This builds and tests only the debug variant for faster results. In addition to running lint and unit tests, the [Virtual Device Testing](https://www.bitrise.io/integrations/steps/virtual-device-testing-for-android) Step runs UI tests on a virtual device.
 
-#### `deploy` Workflw
+#### `deploy` Workflo
 <details>
 <summary>Workflow steps</summary>
 
